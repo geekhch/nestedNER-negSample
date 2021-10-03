@@ -1,0 +1,1 @@
+python main.py -dd dataset -cd save -rd resource -bs 8

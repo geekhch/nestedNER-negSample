@@ -1,0 +1,1 @@
+python predict.py -dd dataset -cd save -rd resource -bs 4

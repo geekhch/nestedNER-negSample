@@ -1,0 +1,12 @@
+# Ignore dirs:
+__pycache__
+/.idea
+/.vscode
+/save
+/logs
+tmp
+/resource
+
+# Ignore files:
+.DS_Store
+/eval_*.txt
