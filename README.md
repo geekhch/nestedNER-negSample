@@ -1,6 +1,8 @@
 # Negative Sampling for NER
 
 ## 运行
++ 训练： bash run_train.sh
++ 预测：预测暂时封装为http接口，请根据需要自己修改
 
 ## 项目说明
 本项目为[原项目地址](https://github.com/LeePleased/NegSampling-NER)的改进版本：
