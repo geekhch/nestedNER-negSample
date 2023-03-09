@@ -1,4 +1,3 @@
-> 改进优化点作者保留原创权利, 仅可使用，请勿转发。
 # Negative Sampling for nested NER
 
 ## 运行
